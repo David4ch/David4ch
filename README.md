@@ -1,5 +1,5 @@
 ### Hi there 👋
-!(logo) (https://github.com/David4ch/David4ch/blob/main/assets/psyduck.jpg?raw=true)
+!(logo)(https://github.com/David4ch/David4ch/blob/main/assets/psyduck.jpg?raw=true)
 <!--
 **David4ch/David4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
