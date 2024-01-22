@@ -1,4 +1,4 @@
-### Portfolio DAVID CHAVARRIA PACCHA
+### DAVID CHAVARRIA PACCHA
 
-Este repositorio contiene mi portafolio de programador, donde muestro algunos de mis proyectos y comparto información sobre mí.
+Este repositorio contiene mi portafolio como programador, donde muestro algunos de mis proyectos y comparto información sobre mí.
 
